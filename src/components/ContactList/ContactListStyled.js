@@ -55,7 +55,7 @@ const Div = styled.div`
 
   .itemFade-exit-active {
     opacity: 0;
-    transform: translateX(200%);
+    transform: translateX(-200%);
     transition: all 250ms linear;
   }
 `;
